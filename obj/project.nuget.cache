@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7zGOtBojKYKfxhnHPcUT3VyrESxja/bA/Bo/YTDc0P2qREKvkcDEOz693d/YcKuKiDWy9Un4HWsnEYkxDveCmQ==",
+  "success": true,
+  "projectFilePath": "/Users/risabtajale/Documents/college files/YEAR_3/Application development/week0/C5/C5/C5.csproj",
+  "expectedPackageFiles": [
+    "/Users/risabtajale/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

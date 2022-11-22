@@ -1,0 +1,17 @@
+/Users/risabtajale/Documents/college files/YEAR_3/Application development/week0/C5/C5/bin/Debug/net6.0/C5
+/Users/risabtajale/Documents/college files/YEAR_3/Application development/week0/C5/C5/bin/Debug/net6.0/C5.deps.json
+/Users/risabtajale/Documents/college files/YEAR_3/Application development/week0/C5/C5/bin/Debug/net6.0/C5.runtimeconfig.json
+/Users/risabtajale/Documents/college files/YEAR_3/Application development/week0/C5/C5/bin/Debug/net6.0/C5.dll
+/Users/risabtajale/Documents/college files/YEAR_3/Application development/week0/C5/C5/bin/Debug/net6.0/C5.pdb
+/Users/risabtajale/Documents/college files/YEAR_3/Application development/week0/C5/C5/obj/Debug/net6.0/C5.csproj.AssemblyReference.cache
+/Users/risabtajale/Documents/college files/YEAR_3/Application development/week0/C5/C5/obj/Debug/net6.0/C5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/risabtajale/Documents/college files/YEAR_3/Application development/week0/C5/C5/obj/Debug/net6.0/C5.AssemblyInfoInputs.cache
+/Users/risabtajale/Documents/college files/YEAR_3/Application development/week0/C5/C5/obj/Debug/net6.0/C5.AssemblyInfo.cs
+/Users/risabtajale/Documents/college files/YEAR_3/Application development/week0/C5/C5/obj/Debug/net6.0/C5.csproj.CoreCompileInputs.cache
+/Users/risabtajale/Documents/college files/YEAR_3/Application development/week0/C5/C5/obj/Debug/net6.0/C5.dll
+/Users/risabtajale/Documents/college files/YEAR_3/Application development/week0/C5/C5/obj/Debug/net6.0/refint/C5.dll
+/Users/risabtajale/Documents/college files/YEAR_3/Application development/week0/C5/C5/obj/Debug/net6.0/C5.pdb
+/Users/risabtajale/Documents/college files/YEAR_3/Application development/week0/C5/C5/obj/Debug/net6.0/C5.genruntimeconfig.cache
+/Users/risabtajale/Documents/college files/YEAR_3/Application development/week0/C5/C5/obj/Debug/net6.0/ref/C5.dll
+/Users/risabtajale/Documents/college files/YEAR_3/Application development/week0/C5/C5/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/risabtajale/Documents/college files/YEAR_3/Application development/week0/C5/C5/obj/Debug/net6.0/C5.csproj.CopyComplete
